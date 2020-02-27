@@ -6,6 +6,3 @@ In the ContactHandler class, the main purpose is fixing the input file's content
 The last one, the ContactProcessor helps this program to read the content and save it to the output file and report file.
 Overall, this program finished all the required document except "test4". The programmer checked and debug it but still can't find the problem which is about "delete" function.
 This may need further thinking.
-------------------------------------------------------------------------------------------------------------------------------
-# Author
-Jialu He
